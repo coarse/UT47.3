@@ -1,0 +1,2438 @@
+EESchema Schematic File Version 4
+LIBS:ut47.3-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX_Alps_Hybrids:MX-1U MX1
+U 1 1 5C6CF730
+P 2075 1500
+F 0 "MX1" H 2161 1717 60  0000 C CNN
+F 1 "MX-1U" H 2161 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2050 1475 60  0001 C CNN
+F 3 "" H 2050 1475 60  0001 C CNN
+	1    2075 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX2
+U 1 1 5C6D3520
+P 2525 1500
+F 0 "MX2" H 2611 1717 60  0000 C CNN
+F 1 "MX-1U" H 2611 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2500 1475 60  0001 C CNN
+F 3 "" H 2500 1475 60  0001 C CNN
+	1    2525 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX3
+U 1 1 5C6D3562
+P 2975 1500
+F 0 "MX3" H 3061 1717 60  0000 C CNN
+F 1 "MX-1U" H 3061 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2950 1475 60  0001 C CNN
+F 3 "" H 2950 1475 60  0001 C CNN
+	1    2975 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX4
+U 1 1 5C6D3580
+P 3425 1500
+F 0 "MX4" H 3511 1717 60  0000 C CNN
+F 1 "MX-1U" H 3511 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 3400 1475 60  0001 C CNN
+F 3 "" H 3400 1475 60  0001 C CNN
+	1    3425 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX5
+U 1 1 5C6D3618
+P 3875 1500
+F 0 "MX5" H 3961 1717 60  0000 C CNN
+F 1 "MX-1U" H 3961 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 3850 1475 60  0001 C CNN
+F 3 "" H 3850 1475 60  0001 C CNN
+	1    3875 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX6
+U 1 1 5C6D361F
+P 4325 1500
+F 0 "MX6" H 4411 1717 60  0000 C CNN
+F 1 "MX-1U" H 4411 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 4300 1475 60  0001 C CNN
+F 3 "" H 4300 1475 60  0001 C CNN
+	1    4325 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX7
+U 1 1 5C6D3626
+P 4775 1500
+F 0 "MX7" H 4861 1717 60  0000 C CNN
+F 1 "MX-1U" H 4861 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 4750 1475 60  0001 C CNN
+F 3 "" H 4750 1475 60  0001 C CNN
+	1    4775 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX8
+U 1 1 5C6D362D
+P 5225 1500
+F 0 "MX8" H 5311 1717 60  0000 C CNN
+F 1 "MX-1U" H 5311 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 5200 1475 60  0001 C CNN
+F 3 "" H 5200 1475 60  0001 C CNN
+	1    5225 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX9
+U 1 1 5C6D36A8
+P 5675 1500
+F 0 "MX9" H 5761 1717 60  0000 C CNN
+F 1 "MX-1U" H 5761 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 5650 1475 60  0001 C CNN
+F 3 "" H 5650 1475 60  0001 C CNN
+	1    5675 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX10
+U 1 1 5C6D36AF
+P 6125 1500
+F 0 "MX10" H 6211 1717 60  0000 C CNN
+F 1 "MX-1U" H 6211 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6100 1475 60  0001 C CNN
+F 3 "" H 6100 1475 60  0001 C CNN
+	1    6125 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX11
+U 1 1 5C6D36B6
+P 6575 1500
+F 0 "MX11" H 6661 1717 60  0000 C CNN
+F 1 "MX-1U" H 6661 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6550 1475 60  0001 C CNN
+F 3 "" H 6550 1475 60  0001 C CNN
+	1    6575 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1.5U MX12
+U 1 1 5C6D37E8
+P 7025 1500
+F 0 "MX12" H 7111 1717 60  0000 C CNN
+F 1 "MX-1.5U" H 7111 1643 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.5U" H 7000 1475 60  0001 C CNN
+F 3 "" H 7000 1475 60  0001 C CNN
+	1    7025 1500
+	0    -1   1    0   
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX14
+U 1 1 5C6D3C7A
+P 2525 2150
+F 0 "MX14" H 2611 2367 60  0000 C CNN
+F 1 "MX-1U" H 2611 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2500 2125 60  0001 C CNN
+F 3 "" H 2500 2125 60  0001 C CNN
+	1    2525 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX15
+U 1 1 5C6D3C81
+P 2975 2150
+F 0 "MX15" H 3061 2367 60  0000 C CNN
+F 1 "MX-1U" H 3061 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2950 2125 60  0001 C CNN
+F 3 "" H 2950 2125 60  0001 C CNN
+	1    2975 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX16
+U 1 1 5C6D3C88
+P 3425 2150
+F 0 "MX16" H 3511 2367 60  0000 C CNN
+F 1 "MX-1U" H 3511 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 3400 2125 60  0001 C CNN
+F 3 "" H 3400 2125 60  0001 C CNN
+	1    3425 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX17
+U 1 1 5C6D3C8F
+P 3875 2150
+F 0 "MX17" H 3961 2367 60  0000 C CNN
+F 1 "MX-1U" H 3961 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 3850 2125 60  0001 C CNN
+F 3 "" H 3850 2125 60  0001 C CNN
+	1    3875 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX18
+U 1 1 5C6D3C96
+P 4325 2150
+F 0 "MX18" H 4411 2367 60  0000 C CNN
+F 1 "MX-1U" H 4411 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 4300 2125 60  0001 C CNN
+F 3 "" H 4300 2125 60  0001 C CNN
+	1    4325 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX19
+U 1 1 5C6D3C9D
+P 4775 2150
+F 0 "MX19" H 4861 2367 60  0000 C CNN
+F 1 "MX-1U" H 4861 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 4750 2125 60  0001 C CNN
+F 3 "" H 4750 2125 60  0001 C CNN
+	1    4775 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX20
+U 1 1 5C6D3CA4
+P 5225 2150
+F 0 "MX20" H 5311 2367 60  0000 C CNN
+F 1 "MX-1U" H 5311 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 5200 2125 60  0001 C CNN
+F 3 "" H 5200 2125 60  0001 C CNN
+	1    5225 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX21
+U 1 1 5C6D3CAB
+P 5675 2150
+F 0 "MX21" H 5761 2367 60  0000 C CNN
+F 1 "MX-1U" H 5761 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 5650 2125 60  0001 C CNN
+F 3 "" H 5650 2125 60  0001 C CNN
+	1    5675 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX22
+U 1 1 5C6D3CB2
+P 6125 2150
+F 0 "MX22" H 6211 2367 60  0000 C CNN
+F 1 "MX-1U" H 6211 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6100 2125 60  0001 C CNN
+F 3 "" H 6100 2125 60  0001 C CNN
+	1    6125 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX23
+U 1 1 5C6D3CB9
+P 6575 2150
+F 0 "MX23" H 6661 2367 60  0000 C CNN
+F 1 "MX-1U" H 6661 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6550 2125 60  0001 C CNN
+F 3 "" H 6550 2125 60  0001 C CNN
+	1    6575 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX26
+U 1 1 5C6D3E2A
+P 2525 2800
+F 0 "MX26" H 2611 3017 60  0000 C CNN
+F 1 "MX-1U" H 2611 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2500 2775 60  0001 C CNN
+F 3 "" H 2500 2775 60  0001 C CNN
+	1    2525 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX27
+U 1 1 5C6D3E31
+P 2975 2800
+F 0 "MX27" H 3061 3017 60  0000 C CNN
+F 1 "MX-1U" H 3061 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2950 2775 60  0001 C CNN
+F 3 "" H 2950 2775 60  0001 C CNN
+	1    2975 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX28
+U 1 1 5C6D3E38
+P 3425 2800
+F 0 "MX28" H 3511 3017 60  0000 C CNN
+F 1 "MX-1U" H 3511 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 3400 2775 60  0001 C CNN
+F 3 "" H 3400 2775 60  0001 C CNN
+	1    3425 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX29
+U 1 1 5C6D3E3F
+P 3875 2800
+F 0 "MX29" H 3961 3017 60  0000 C CNN
+F 1 "MX-1U" H 3961 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 3850 2775 60  0001 C CNN
+F 3 "" H 3850 2775 60  0001 C CNN
+	1    3875 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX30
+U 1 1 5C6D3E46
+P 4325 2800
+F 0 "MX30" H 4411 3017 60  0000 C CNN
+F 1 "MX-1U" H 4411 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 4300 2775 60  0001 C CNN
+F 3 "" H 4300 2775 60  0001 C CNN
+	1    4325 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX31
+U 1 1 5C6D3E4D
+P 4775 2800
+F 0 "MX31" H 4861 3017 60  0000 C CNN
+F 1 "MX-1U" H 4861 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 4750 2775 60  0001 C CNN
+F 3 "" H 4750 2775 60  0001 C CNN
+	1    4775 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX32
+U 1 1 5C6D3E54
+P 5225 2800
+F 0 "MX32" H 5311 3017 60  0000 C CNN
+F 1 "MX-1U" H 5311 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 5200 2775 60  0001 C CNN
+F 3 "" H 5200 2775 60  0001 C CNN
+	1    5225 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX33
+U 1 1 5C6D3E5B
+P 5675 2800
+F 0 "MX33" H 5761 3017 60  0000 C CNN
+F 1 "MX-1U" H 5761 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 5650 2775 60  0001 C CNN
+F 3 "" H 5650 2775 60  0001 C CNN
+	1    5675 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX34
+U 1 1 5C6D3E62
+P 6125 2800
+F 0 "MX34" H 6211 3017 60  0000 C CNN
+F 1 "MX-1U" H 6211 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6100 2775 60  0001 C CNN
+F 3 "" H 6100 2775 60  0001 C CNN
+	1    6125 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX35
+U 1 1 5C6D3E69
+P 6575 2800
+F 0 "MX35" H 6661 3017 60  0000 C CNN
+F 1 "MX-1U" H 6661 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6550 2775 60  0001 C CNN
+F 3 "" H 6550 2775 60  0001 C CNN
+	1    6575 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1.5U MX25
+U 1 1 5C6D3FC4
+P 2075 2800
+F 0 "MX25" H 2161 3017 60  0000 C CNN
+F 1 "MX-1.5U" H 2161 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.5U" H 2050 2775 60  0001 C CNN
+F 3 "" H 2050 2775 60  0001 C CNN
+	1    2075 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1.25U MX24
+U 1 1 5C6D430C
+P 7025 2150
+F 0 "MX24" H 7111 2367 60  0000 C CNN
+F 1 "MX-1.25U" H 7111 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.25U" H 7000 2125 60  0001 C CNN
+F 3 "" H 7000 2125 60  0001 C CNN
+	1    7025 2150
+	0    -1   1    0   
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX36
+U 1 1 5C6D443E
+P 7025 2800
+F 0 "MX36" H 7111 3017 60  0000 C CNN
+F 1 "MX-1U" H 7111 2943 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 7000 2775 60  0001 C CNN
+F 3 "" H 7000 2775 60  0001 C CNN
+	1    7025 2800
+	0    -1   1    0   
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX37
+U 1 1 5C6D48D1
+P 2075 3525
+F 0 "MX37" H 2161 3742 60  0000 C CNN
+F 1 "MX-1U" H 2161 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2050 3500 60  0001 C CNN
+F 3 "" H 2050 3500 60  0001 C CNN
+	1    2075 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX38
+U 1 1 5C6D48D8
+P 2525 3525
+F 0 "MX38" H 2611 3742 60  0000 C CNN
+F 1 "MX-1U" H 2611 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2500 3500 60  0001 C CNN
+F 3 "" H 2500 3500 60  0001 C CNN
+	1    2525 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX39
+U 1 1 5C6D48DF
+P 2975 3525
+F 0 "MX39" H 3061 3742 60  0000 C CNN
+F 1 "MX-1U" H 3061 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 2950 3500 60  0001 C CNN
+F 3 "" H 2950 3500 60  0001 C CNN
+	1    2975 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX40
+U 1 1 5C6D48E6
+P 3425 3525
+F 0 "MX40" H 3511 3742 60  0000 C CNN
+F 1 "MX-1U" H 3511 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 3400 3500 60  0001 C CNN
+F 3 "" H 3400 3500 60  0001 C CNN
+	1    3425 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1.25U MX41
+U 1 1 5C6D5396
+P 3875 3525
+F 0 "MX41" H 3961 3742 60  0000 C CNN
+F 1 "MX-1.25U" H 3961 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.25U" H 3850 3500 60  0001 C CNN
+F 3 "" H 3850 3500 60  0001 C CNN
+	1    3875 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-2U MX42
+U 1 1 5C6D54B2
+P 4550 3525
+F 0 "MX42" H 4636 3742 60  0000 C CNN
+F 1 "MX-2U" H 4636 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-2U-ReversedStabilizers" H 4525 3500 60  0001 C CNN
+F 3 "" H 4525 3500 60  0001 C CNN
+	1    4550 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1.25U MX43
+U 1 1 5C6D5629
+P 5225 3525
+F 0 "MX43" H 5311 3742 60  0000 C CNN
+F 1 "MX-1.25U" H 5311 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.25U" H 5200 3500 60  0001 C CNN
+F 3 "" H 5200 3500 60  0001 C CNN
+	1    5225 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX44
+U 1 1 5C6D59D8
+P 5675 3525
+F 0 "MX44" H 5761 3742 60  0000 C CNN
+F 1 "MX-1U" H 5761 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 5650 3500 60  0001 C CNN
+F 3 "" H 5650 3500 60  0001 C CNN
+	1    5675 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX45
+U 1 1 5C6D59DF
+P 6125 3525
+F 0 "MX45" H 6211 3742 60  0000 C CNN
+F 1 "MX-1U" H 6211 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6100 3500 60  0001 C CNN
+F 3 "" H 6100 3500 60  0001 C CNN
+	1    6125 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX46
+U 1 1 5C6D59E6
+P 6575 3525
+F 0 "MX46" H 6661 3742 60  0000 C CNN
+F 1 "MX-1U" H 6661 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 6550 3500 60  0001 C CNN
+F 3 "" H 6550 3500 60  0001 C CNN
+	1    6575 3525
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrids:MX-1U MX47
+U 1 1 5C6D59ED
+P 7025 3525
+F 0 "MX47" H 7111 3742 60  0000 C CNN
+F 1 "MX-1U" H 7111 3668 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U" H 7000 3500 60  0001 C CNN
+F 3 "" H 7000 3500 60  0001 C CNN
+	1    7025 3525
+	0    -1   1    0   
+$EndComp
+$Comp
+L peioris_boards_lib:D D1
+U 1 1 5C6F1F6E
+P 2000 1675
+F 0 "D1" H 2000 1596 25  0000 C CNN
+F 1 "D" H 2000 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 1675 50  0001 C CNN
+F 3 "" H 2000 1675 50  0001 C CNN
+	1    2000 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D2
+U 1 1 5C6F406B
+P 2450 1675
+F 0 "D2" H 2450 1596 25  0000 C CNN
+F 1 "D" H 2450 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2450 1675 50  0001 C CNN
+F 3 "" H 2450 1675 50  0001 C CNN
+	1    2450 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D3
+U 1 1 5C6F4406
+P 2900 1675
+F 0 "D3" H 2900 1596 25  0000 C CNN
+F 1 "D" H 2900 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2900 1675 50  0001 C CNN
+F 3 "" H 2900 1675 50  0001 C CNN
+	1    2900 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D4
+U 1 1 5C6F4C41
+P 3350 1675
+F 0 "D4" H 3350 1596 25  0000 C CNN
+F 1 "D" H 3350 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3350 1675 50  0001 C CNN
+F 3 "" H 3350 1675 50  0001 C CNN
+	1    3350 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D5
+U 1 1 5C6F4E52
+P 3800 1675
+F 0 "D5" H 3800 1596 25  0000 C CNN
+F 1 "D" H 3800 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3800 1675 50  0001 C CNN
+F 3 "" H 3800 1675 50  0001 C CNN
+	1    3800 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D6
+U 1 1 5C6F5003
+P 4250 1675
+F 0 "D6" H 4250 1596 25  0000 C CNN
+F 1 "D" H 4250 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4250 1675 50  0001 C CNN
+F 3 "" H 4250 1675 50  0001 C CNN
+	1    4250 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D7
+U 1 1 5C6F5228
+P 4700 1675
+F 0 "D7" H 4700 1596 25  0000 C CNN
+F 1 "D" H 4700 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4700 1675 50  0001 C CNN
+F 3 "" H 4700 1675 50  0001 C CNN
+	1    4700 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D8
+U 1 1 5C6F5420
+P 5150 1675
+F 0 "D8" H 5150 1596 25  0000 C CNN
+F 1 "D" H 5150 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5150 1675 50  0001 C CNN
+F 3 "" H 5150 1675 50  0001 C CNN
+	1    5150 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D9
+U 1 1 5C6F5773
+P 5600 1675
+F 0 "D9" H 5600 1596 25  0000 C CNN
+F 1 "D" H 5600 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5600 1675 50  0001 C CNN
+F 3 "" H 5600 1675 50  0001 C CNN
+	1    5600 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D10
+U 1 1 5C6F597D
+P 6050 1675
+F 0 "D10" H 6050 1596 25  0000 C CNN
+F 1 "D" H 6050 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6050 1675 50  0001 C CNN
+F 3 "" H 6050 1675 50  0001 C CNN
+	1    6050 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D11
+U 1 1 5C6F5B92
+P 6500 1675
+F 0 "D11" H 6500 1596 25  0000 C CNN
+F 1 "D" H 6500 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 1675 50  0001 C CNN
+F 3 "" H 6500 1675 50  0001 C CNN
+	1    6500 1675
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D12
+U 1 1 5C6F5D75
+P 6950 1675
+F 0 "D12" H 6950 1596 25  0000 C CNN
+F 1 "D" H 6950 1625 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 1675 50  0001 C CNN
+F 3 "" H 6950 1675 50  0001 C CNN
+	1    6950 1675
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2250 1475 2350 1475
+Wire Wire Line
+	2350 1475 2350 1250
+Wire Wire Line
+	2350 3500 2250 3500
+Wire Wire Line
+	2250 2775 2350 2775
+Wire Wire Line
+	2250 2125 2350 2125
+Wire Wire Line
+	2700 1475 2800 1475
+Wire Wire Line
+	2800 1475 2800 1250
+Wire Wire Line
+	3150 1475 3250 1475
+Wire Wire Line
+	3250 1475 3250 1250
+Wire Wire Line
+	3600 1475 3700 1475
+Wire Wire Line
+	3700 1475 3700 1250
+Wire Wire Line
+	4050 1475 4150 1475
+Wire Wire Line
+	4150 1475 4150 1250
+Wire Wire Line
+	4500 1475 4600 1475
+Wire Wire Line
+	4600 1250 4600 1475
+Wire Wire Line
+	4950 1475 5050 1475
+Wire Wire Line
+	5050 1475 5050 1250
+Wire Wire Line
+	5400 1475 5500 1475
+Wire Wire Line
+	5500 1475 5500 1250
+Wire Wire Line
+	5850 1475 5950 1475
+Wire Wire Line
+	5950 1475 5950 1250
+Wire Wire Line
+	6300 1475 6400 1475
+Wire Wire Line
+	6400 1475 6400 1250
+Wire Wire Line
+	6750 1475 6850 1475
+Wire Wire Line
+	6850 1475 6850 1250
+Wire Wire Line
+	7200 1475 7300 1475
+Wire Wire Line
+	7300 1475 7300 1250
+$Comp
+L MX_Alps_Hybrids:MX-1.25U MX13
+U 1 1 5C6D41FE
+P 2075 2150
+F 0 "MX13" H 2161 2367 60  0000 C CNN
+F 1 "MX-1.25U" H 2161 2293 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.25U" H 2050 2125 60  0001 C CNN
+F 3 "" H 2050 2125 60  0001 C CNN
+	1    2075 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 1675 1950 1850
+Wire Wire Line
+	1950 1850 2400 1850
+Wire Wire Line
+	2400 1850 2400 1675
+Wire Wire Line
+	6900 1850 6900 1675
+Connection ~ 2400 1850
+Wire Wire Line
+	6450 1675 6450 1850
+Connection ~ 6450 1850
+Wire Wire Line
+	6450 1850 6900 1850
+Wire Wire Line
+	6000 1675 6000 1850
+Connection ~ 6000 1850
+Wire Wire Line
+	6000 1850 6450 1850
+Wire Wire Line
+	5550 1675 5550 1850
+Connection ~ 5550 1850
+Wire Wire Line
+	5550 1850 6000 1850
+Wire Wire Line
+	5100 1675 5100 1850
+Connection ~ 5100 1850
+Wire Wire Line
+	5100 1850 5550 1850
+Wire Wire Line
+	4650 1675 4650 1850
+Connection ~ 4650 1850
+Wire Wire Line
+	4650 1850 5100 1850
+Wire Wire Line
+	4200 1675 4200 1850
+Connection ~ 4200 1850
+Wire Wire Line
+	4200 1850 4650 1850
+Wire Wire Line
+	3750 1675 3750 1850
+Connection ~ 3750 1850
+Wire Wire Line
+	3750 1850 4200 1850
+Wire Wire Line
+	3300 1675 3300 1850
+Wire Wire Line
+	2400 1850 2850 1850
+Connection ~ 3300 1850
+Wire Wire Line
+	3300 1850 3750 1850
+Wire Wire Line
+	2850 1675 2850 1850
+Connection ~ 2850 1850
+Wire Wire Line
+	2850 1850 3300 1850
+Wire Wire Line
+	2200 1525 2650 1525
+Connection ~ 2650 1525
+Wire Wire Line
+	2650 1525 3100 1525
+Connection ~ 3100 1525
+Wire Wire Line
+	3100 1525 3550 1525
+Connection ~ 3550 1525
+Wire Wire Line
+	3550 1525 4000 1525
+Connection ~ 4000 1525
+Wire Wire Line
+	4000 1525 4450 1525
+Connection ~ 4450 1525
+Wire Wire Line
+	4450 1525 4900 1525
+Connection ~ 4900 1525
+Wire Wire Line
+	4900 1525 5350 1525
+Connection ~ 5350 1525
+Wire Wire Line
+	5350 1525 5800 1525
+Connection ~ 5800 1525
+Wire Wire Line
+	5800 1525 6250 1525
+Connection ~ 6250 1525
+Wire Wire Line
+	6250 1525 6700 1525
+Wire Wire Line
+	2350 2125 2350 1475
+Connection ~ 2350 1475
+$Comp
+L peioris_boards_lib:D D13
+U 1 1 5C705699
+P 2000 2325
+F 0 "D13" H 2000 2246 25  0000 C CNN
+F 1 "D" H 2000 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 2325 50  0001 C CNN
+F 3 "" H 2000 2325 50  0001 C CNN
+	1    2000 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D14
+U 1 1 5C7066BA
+P 2450 2325
+F 0 "D14" H 2450 2246 25  0000 C CNN
+F 1 "D" H 2450 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2450 2325 50  0001 C CNN
+F 3 "" H 2450 2325 50  0001 C CNN
+	1    2450 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D15
+U 1 1 5C707820
+P 2900 2325
+F 0 "D15" H 2900 2246 25  0000 C CNN
+F 1 "D" H 2900 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2900 2325 50  0001 C CNN
+F 3 "" H 2900 2325 50  0001 C CNN
+	1    2900 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D16
+U 1 1 5C708841
+P 3350 2325
+F 0 "D16" H 3350 2246 25  0000 C CNN
+F 1 "D" H 3350 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3350 2325 50  0001 C CNN
+F 3 "" H 3350 2325 50  0001 C CNN
+	1    3350 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D17
+U 1 1 5C709865
+P 3800 2325
+F 0 "D17" H 3800 2246 25  0000 C CNN
+F 1 "D" H 3800 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3800 2325 50  0001 C CNN
+F 3 "" H 3800 2325 50  0001 C CNN
+	1    3800 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D18
+U 1 1 5C70A9D5
+P 4250 2325
+F 0 "D18" H 4250 2246 25  0000 C CNN
+F 1 "D" H 4250 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4250 2325 50  0001 C CNN
+F 3 "" H 4250 2325 50  0001 C CNN
+	1    4250 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D19
+U 1 1 5C70B9FB
+P 4700 2325
+F 0 "D19" H 4700 2246 25  0000 C CNN
+F 1 "D" H 4700 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4700 2325 50  0001 C CNN
+F 3 "" H 4700 2325 50  0001 C CNN
+	1    4700 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D20
+U 1 1 5C70CB2E
+P 5150 2325
+F 0 "D20" H 5150 2246 25  0000 C CNN
+F 1 "D" H 5150 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5150 2325 50  0001 C CNN
+F 3 "" H 5150 2325 50  0001 C CNN
+	1    5150 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D21
+U 1 1 5C70DB54
+P 5600 2325
+F 0 "D21" H 5600 2246 25  0000 C CNN
+F 1 "D" H 5600 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5600 2325 50  0001 C CNN
+F 3 "" H 5600 2325 50  0001 C CNN
+	1    5600 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D22
+U 1 1 5C70ECDC
+P 6050 2325
+F 0 "D22" H 6050 2246 25  0000 C CNN
+F 1 "D" H 6050 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6050 2325 50  0001 C CNN
+F 3 "" H 6050 2325 50  0001 C CNN
+	1    6050 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D23
+U 1 1 5C70FD08
+P 6500 2325
+F 0 "D23" H 6500 2246 25  0000 C CNN
+F 1 "D" H 6500 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 2325 50  0001 C CNN
+F 3 "" H 6500 2325 50  0001 C CNN
+	1    6500 2325
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D24
+U 1 1 5C710E51
+P 6950 2325
+F 0 "D24" H 6950 2246 25  0000 C CNN
+F 1 "D" H 6950 2275 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 2325 50  0001 C CNN
+F 3 "" H 6950 2325 50  0001 C CNN
+	1    6950 2325
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6900 2325 6900 2500
+Wire Wire Line
+	1950 2500 1950 2325
+Wire Wire Line
+	2400 2325 2400 2500
+Connection ~ 2400 2500
+Wire Wire Line
+	2400 2500 1950 2500
+Wire Wire Line
+	2850 2325 2850 2500
+Connection ~ 2850 2500
+Wire Wire Line
+	2850 2500 2400 2500
+Wire Wire Line
+	3300 2325 3300 2500
+Wire Wire Line
+	3750 2325 3750 2500
+Connection ~ 3750 2500
+Wire Wire Line
+	4200 2325 4200 2500
+Connection ~ 4200 2500
+Wire Wire Line
+	4200 2500 3750 2500
+Wire Wire Line
+	4650 2325 4650 2500
+Connection ~ 4650 2500
+Wire Wire Line
+	4650 2500 4200 2500
+Wire Wire Line
+	5100 2325 5100 2500
+Wire Wire Line
+	4650 2500 5100 2500
+Wire Wire Line
+	5550 2325 5550 2500
+Wire Wire Line
+	6000 2325 6000 2500
+Wire Wire Line
+	6450 2325 6450 2500
+$Comp
+L peioris_boards_lib:D D25
+U 1 1 5C725AF1
+P 2000 2975
+F 0 "D25" H 2000 2896 25  0000 C CNN
+F 1 "D" H 2000 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 2975 50  0001 C CNN
+F 3 "" H 2000 2975 50  0001 C CNN
+	1    2000 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D26
+U 1 1 5C727B80
+P 2450 2975
+F 0 "D26" H 2450 2896 25  0000 C CNN
+F 1 "D" H 2450 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2450 2975 50  0001 C CNN
+F 3 "" H 2450 2975 50  0001 C CNN
+	1    2450 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D27
+U 1 1 5C729985
+P 2900 2975
+F 0 "D27" H 2900 2896 25  0000 C CNN
+F 1 "D" H 2900 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2900 2975 50  0001 C CNN
+F 3 "" H 2900 2975 50  0001 C CNN
+	1    2900 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D28
+U 1 1 5C72B9E9
+P 3350 2975
+F 0 "D28" H 3350 2896 25  0000 C CNN
+F 1 "D" H 3350 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3350 2975 50  0001 C CNN
+F 3 "" H 3350 2975 50  0001 C CNN
+	1    3350 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D29
+U 1 1 5C72D7EA
+P 3800 2975
+F 0 "D29" H 3800 2896 25  0000 C CNN
+F 1 "D" H 3800 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3800 2975 50  0001 C CNN
+F 3 "" H 3800 2975 50  0001 C CNN
+	1    3800 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D30
+U 1 1 5C72F5F2
+P 4250 2975
+F 0 "D30" H 4250 2896 25  0000 C CNN
+F 1 "D" H 4250 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4250 2975 50  0001 C CNN
+F 3 "" H 4250 2975 50  0001 C CNN
+	1    4250 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D31
+U 1 1 5C7316B3
+P 4700 2975
+F 0 "D31" H 4700 2896 25  0000 C CNN
+F 1 "D" H 4700 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4700 2975 50  0001 C CNN
+F 3 "" H 4700 2975 50  0001 C CNN
+	1    4700 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D32
+U 1 1 5C7334BF
+P 5150 2975
+F 0 "D32" H 5150 2896 25  0000 C CNN
+F 1 "D" H 5150 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5150 2975 50  0001 C CNN
+F 3 "" H 5150 2975 50  0001 C CNN
+	1    5150 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D33
+U 1 1 5C7352C8
+P 5600 2975
+F 0 "D33" H 5600 2896 25  0000 C CNN
+F 1 "D" H 5600 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5600 2975 50  0001 C CNN
+F 3 "" H 5600 2975 50  0001 C CNN
+	1    5600 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D34
+U 1 1 5C737269
+P 6050 2975
+F 0 "D34" H 6050 2896 25  0000 C CNN
+F 1 "D" H 6050 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6050 2975 50  0001 C CNN
+F 3 "" H 6050 2975 50  0001 C CNN
+	1    6050 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D35
+U 1 1 5C739074
+P 6500 2975
+F 0 "D35" H 6500 2896 25  0000 C CNN
+F 1 "D" H 6500 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 2975 50  0001 C CNN
+F 3 "" H 6500 2975 50  0001 C CNN
+	1    6500 2975
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D36
+U 1 1 5C73AFCE
+P 6950 2975
+F 0 "D36" H 6950 2896 25  0000 C CNN
+F 1 "D" H 6950 2925 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 2975 50  0001 C CNN
+F 3 "" H 6950 2975 50  0001 C CNN
+	1    6950 2975
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6900 2975 6900 3150
+Wire Wire Line
+	1950 3150 1950 2975
+Wire Wire Line
+	2400 2975 2400 3150
+Wire Wire Line
+	1950 3150 2400 3150
+Connection ~ 2400 3150
+Wire Wire Line
+	2850 2975 2850 3150
+Wire Wire Line
+	2400 3150 2850 3150
+Connection ~ 2850 3150
+Wire Wire Line
+	3300 2975 3300 3150
+Wire Wire Line
+	2850 3150 3300 3150
+Wire Wire Line
+	3750 2975 3750 3150
+Connection ~ 3750 3150
+Wire Wire Line
+	3750 3150 4200 3150
+Wire Wire Line
+	4200 2975 4200 3150
+Connection ~ 4200 3150
+Wire Wire Line
+	4200 3150 4650 3150
+Wire Wire Line
+	4650 2975 4650 3150
+Connection ~ 4650 3150
+Wire Wire Line
+	4650 3150 5100 3150
+Wire Wire Line
+	5100 2975 5100 3150
+Wire Wire Line
+	5550 2975 5550 3150
+Wire Wire Line
+	6000 2975 6000 3150
+Wire Wire Line
+	6450 2975 6450 3150
+$Comp
+L peioris_boards_lib:D D37
+U 1 1 5C75A371
+P 2000 3700
+F 0 "D37" H 2000 3621 25  0000 C CNN
+F 1 "D" H 2000 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 3700 50  0001 C CNN
+F 3 "" H 2000 3700 50  0001 C CNN
+	1    2000 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D38
+U 1 1 5C75D3E0
+P 2450 3700
+F 0 "D38" H 2450 3621 25  0000 C CNN
+F 1 "D" H 2450 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2450 3700 50  0001 C CNN
+F 3 "" H 2450 3700 50  0001 C CNN
+	1    2450 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D39
+U 1 1 5C7606A6
+P 2900 3700
+F 0 "D39" H 2900 3621 25  0000 C CNN
+F 1 "D" H 2900 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2900 3700 50  0001 C CNN
+F 3 "" H 2900 3700 50  0001 C CNN
+	1    2900 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D40
+U 1 1 5C763711
+P 3350 3700
+F 0 "D40" H 3350 3621 25  0000 C CNN
+F 1 "D" H 3350 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3350 3700 50  0001 C CNN
+F 3 "" H 3350 3700 50  0001 C CNN
+	1    3350 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D41
+U 1 1 5C766993
+P 3800 3700
+F 0 "D41" H 3800 3621 25  0000 C CNN
+F 1 "D" H 3800 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3800 3700 50  0001 C CNN
+F 3 "" H 3800 3700 50  0001 C CNN
+	1    3800 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D42
+U 1 1 5C769C14
+P 4475 3700
+F 0 "D42" H 4475 3621 25  0000 C CNN
+F 1 "D" H 4475 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4475 3700 50  0001 C CNN
+F 3 "" H 4475 3700 50  0001 C CNN
+	1    4475 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D43
+U 1 1 5C76CE9C
+P 5150 3700
+F 0 "D43" H 5150 3621 25  0000 C CNN
+F 1 "D" H 5150 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5150 3700 50  0001 C CNN
+F 3 "" H 5150 3700 50  0001 C CNN
+	1    5150 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D44
+U 1 1 5C76FF05
+P 5600 3700
+F 0 "D44" H 5600 3621 25  0000 C CNN
+F 1 "D" H 5600 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5600 3700 50  0001 C CNN
+F 3 "" H 5600 3700 50  0001 C CNN
+	1    5600 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D45
+U 1 1 5C77325B
+P 6050 3700
+F 0 "D45" H 6050 3621 25  0000 C CNN
+F 1 "D" H 6050 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6050 3700 50  0001 C CNN
+F 3 "" H 6050 3700 50  0001 C CNN
+	1    6050 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D46
+U 1 1 5C7764FA
+P 6500 3700
+F 0 "D46" H 6500 3621 25  0000 C CNN
+F 1 "D" H 6500 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 3700 50  0001 C CNN
+F 3 "" H 6500 3700 50  0001 C CNN
+	1    6500 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:D D47
+U 1 1 5C779568
+P 6950 3700
+F 0 "D47" H 6950 3621 25  0000 C CNN
+F 1 "D" H 6950 3650 16  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 3700 50  0001 C CNN
+F 3 "" H 6950 3700 50  0001 C CNN
+	1    6950 3700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1950 3700 1950 3875
+Wire Wire Line
+	1950 3875 2400 3875
+Wire Wire Line
+	6900 3875 6900 3700
+Wire Wire Line
+	6450 3700 6450 3875
+Wire Wire Line
+	6000 3700 6000 3875
+Wire Wire Line
+	5550 3700 5550 3875
+Wire Wire Line
+	5100 3700 5100 3875
+Connection ~ 5100 3875
+Wire Wire Line
+	5100 3875 5550 3875
+Wire Wire Line
+	4425 3700 4425 3875
+Connection ~ 4425 3875
+Wire Wire Line
+	4425 3875 5100 3875
+Wire Wire Line
+	3750 3700 3750 3875
+Connection ~ 3750 3875
+Wire Wire Line
+	3750 3875 4425 3875
+Wire Wire Line
+	3300 3700 3300 3875
+Wire Wire Line
+	2850 3700 2850 3875
+Connection ~ 2850 3875
+Wire Wire Line
+	2850 3875 3300 3875
+Wire Wire Line
+	2400 3700 2400 3875
+Connection ~ 2400 3875
+Wire Wire Line
+	2400 3875 2850 3875
+Wire Wire Line
+	2350 3500 2350 2775
+Connection ~ 2350 2125
+Connection ~ 2350 2775
+Wire Wire Line
+	2350 2775 2350 2125
+Wire Wire Line
+	2800 1475 2800 2125
+Wire Wire Line
+	2800 3500 2700 3500
+Connection ~ 2800 1475
+Wire Wire Line
+	3150 3500 3250 3500
+Wire Wire Line
+	3250 3500 3250 2775
+Connection ~ 3250 1475
+Wire Wire Line
+	3150 2125 3250 2125
+Connection ~ 3250 2125
+Wire Wire Line
+	3250 2125 3250 1475
+Wire Wire Line
+	2700 2125 2800 2125
+Connection ~ 2800 2125
+Wire Wire Line
+	2800 2125 2800 2775
+Wire Wire Line
+	2700 2775 2800 2775
+Connection ~ 2800 2775
+Wire Wire Line
+	2800 2775 2800 3500
+Wire Wire Line
+	3150 2775 3250 2775
+Connection ~ 3250 2775
+Wire Wire Line
+	3250 2775 3250 2125
+Wire Wire Line
+	3700 3500 3700 2775
+Connection ~ 3700 1475
+Connection ~ 3300 2500
+Wire Wire Line
+	3300 2500 2850 2500
+Wire Wire Line
+	3300 2500 3750 2500
+Connection ~ 3300 3150
+Wire Wire Line
+	3300 3150 3750 3150
+Connection ~ 3300 3875
+Wire Wire Line
+	3300 3875 3750 3875
+Wire Wire Line
+	3600 3500 3700 3500
+Wire Wire Line
+	4150 1475 4150 2125
+Wire Wire Line
+	4150 3500 4050 3500
+Connection ~ 4150 1475
+Wire Wire Line
+	4050 2775 4150 2775
+Connection ~ 4150 2775
+Wire Wire Line
+	4150 2775 4150 3500
+Wire Wire Line
+	4050 2125 4150 2125
+Connection ~ 4150 2125
+Wire Wire Line
+	4150 2125 4150 2775
+Wire Wire Line
+	4600 1475 4600 2125
+Wire Wire Line
+	4600 2125 4500 2125
+Connection ~ 4600 1475
+Wire Wire Line
+	4600 2125 4600 2775
+Wire Wire Line
+	4600 2775 4500 2775
+Connection ~ 4600 2125
+Wire Wire Line
+	5050 1475 5050 2125
+Wire Wire Line
+	5050 2125 4950 2125
+Connection ~ 5050 1475
+Wire Wire Line
+	5050 2125 5050 2775
+Wire Wire Line
+	5050 2775 4950 2775
+Connection ~ 5050 2125
+Connection ~ 5100 2500
+Wire Wire Line
+	5100 2500 5550 2500
+Wire Wire Line
+	5500 1475 5500 2125
+Wire Wire Line
+	5500 2125 5400 2125
+Connection ~ 5500 1475
+Connection ~ 5100 3150
+Wire Wire Line
+	5100 3150 5550 3150
+Wire Wire Line
+	5500 2125 5500 2775
+Wire Wire Line
+	5500 2775 5400 2775
+Connection ~ 5500 2125
+Wire Wire Line
+	5500 2775 5500 3500
+Wire Wire Line
+	5500 3500 5400 3500
+Connection ~ 5500 2775
+Connection ~ 5550 2500
+Wire Wire Line
+	5550 2500 6000 2500
+Connection ~ 5550 3150
+Wire Wire Line
+	5550 3150 6000 3150
+Connection ~ 5550 3875
+Wire Wire Line
+	5550 3875 6000 3875
+Wire Wire Line
+	5950 1475 5950 2125
+Wire Wire Line
+	5950 3500 5850 3500
+Connection ~ 5950 1475
+Wire Wire Line
+	5850 2775 5950 2775
+Connection ~ 5950 2775
+Wire Wire Line
+	5950 2775 5950 3500
+Wire Wire Line
+	5850 2125 5950 2125
+Connection ~ 5950 2125
+Wire Wire Line
+	5950 2125 5950 2775
+Connection ~ 6000 2500
+Connection ~ 6000 3150
+Wire Wire Line
+	6300 3500 6400 3500
+Wire Wire Line
+	6400 3500 6400 2775
+Connection ~ 6400 1475
+Wire Wire Line
+	6300 2125 6400 2125
+Connection ~ 6400 2125
+Wire Wire Line
+	6400 2125 6400 1475
+Wire Wire Line
+	6300 2775 6400 2775
+Connection ~ 6400 2775
+Wire Wire Line
+	6400 2775 6400 2125
+Connection ~ 6450 2500
+Connection ~ 6450 3150
+Wire Wire Line
+	6750 3500 6850 3500
+Wire Wire Line
+	6850 3500 6850 2775
+Connection ~ 6850 1475
+Wire Wire Line
+	6750 2125 6850 2125
+Connection ~ 6850 2125
+Wire Wire Line
+	6850 2125 6850 1475
+Wire Wire Line
+	6750 2775 6850 2775
+Connection ~ 6850 2775
+Wire Wire Line
+	6850 2775 6850 2125
+Wire Wire Line
+	6450 2500 6900 2500
+Wire Wire Line
+	6450 3150 6900 3150
+Wire Wire Line
+	6450 3875 6900 3875
+Wire Wire Line
+	6000 2500 6450 2500
+Wire Wire Line
+	6000 3150 6450 3150
+Connection ~ 6450 3875
+Connection ~ 6000 3875
+Wire Wire Line
+	6000 3875 6450 3875
+Wire Wire Line
+	7300 1475 7300 2125
+Connection ~ 7300 1475
+Wire Wire Line
+	7200 3500 7300 3500
+Wire Wire Line
+	7200 2775 7300 2775
+Connection ~ 7300 2775
+Wire Wire Line
+	7300 2775 7300 3500
+Wire Wire Line
+	7200 2125 7300 2125
+Connection ~ 7300 2125
+Wire Wire Line
+	7300 2125 7300 2775
+Wire Wire Line
+	2200 2175 2650 2175
+Wire Wire Line
+	2650 2175 3100 2175
+Connection ~ 2650 2175
+Wire Wire Line
+	3100 2175 3550 2175
+Connection ~ 3100 2175
+Wire Wire Line
+	3550 2175 4000 2175
+Connection ~ 3550 2175
+Wire Wire Line
+	4000 2175 4450 2175
+Connection ~ 4000 2175
+Wire Wire Line
+	4450 2175 4900 2175
+Connection ~ 4450 2175
+Wire Wire Line
+	4900 2175 5350 2175
+Connection ~ 4900 2175
+Wire Wire Line
+	5350 2175 5800 2175
+Connection ~ 5350 2175
+Wire Wire Line
+	5800 2175 6250 2175
+Connection ~ 5800 2175
+Wire Wire Line
+	6250 2175 6700 2175
+Connection ~ 6250 2175
+Wire Wire Line
+	2650 2825 2200 2825
+Connection ~ 2650 2825
+Wire Wire Line
+	3100 2825 2650 2825
+Connection ~ 3100 2825
+Wire Wire Line
+	3550 2825 3100 2825
+Connection ~ 3550 2825
+Wire Wire Line
+	4000 2825 3550 2825
+Connection ~ 4000 2825
+Wire Wire Line
+	4450 2825 4000 2825
+Connection ~ 4450 2825
+Wire Wire Line
+	4900 2825 4450 2825
+Connection ~ 4900 2825
+Wire Wire Line
+	5350 2825 4900 2825
+Connection ~ 5350 2825
+Wire Wire Line
+	5800 2825 5350 2825
+Connection ~ 5800 2825
+Wire Wire Line
+	6250 2825 5800 2825
+Connection ~ 6250 2825
+Wire Wire Line
+	6700 2825 6250 2825
+Wire Wire Line
+	2200 3550 2650 3550
+Wire Wire Line
+	2650 3550 3100 3550
+Connection ~ 2650 3550
+Wire Wire Line
+	3100 3550 3550 3550
+Connection ~ 3100 3550
+Wire Wire Line
+	3550 3550 4000 3550
+Connection ~ 3550 3550
+Wire Wire Line
+	4000 3550 4675 3550
+Connection ~ 4000 3550
+Wire Wire Line
+	4675 3550 5350 3550
+Connection ~ 4675 3550
+Wire Wire Line
+	5350 3550 5800 3550
+Connection ~ 5350 3550
+Wire Wire Line
+	5800 3550 6250 3550
+Connection ~ 5800 3550
+Wire Wire Line
+	6250 3550 6700 3550
+Connection ~ 6250 3550
+Wire Wire Line
+	2200 3550 2200 2825
+Connection ~ 2200 3550
+Connection ~ 2200 1525
+Wire Wire Line
+	2200 2175 2200 1525
+Connection ~ 2200 2175
+Wire Wire Line
+	2200 2825 2200 2175
+Connection ~ 2200 2825
+$Comp
+L peioris_boards_lib:+5V #PWR0112
+U 1 1 5C950327
+P 7400 1525
+F 0 "#PWR0112" H 7400 1495 20  0001 C CNN
+F 1 "+5V" H 7400 1659 25  0000 C CNN
+F 2 "" H 7400 1525 60  0000 C CNN
+F 3 "" H 7400 1525 60  0000 C CNN
+	1    7400 1525
+	1    0    0    -1  
+$EndComp
+$Comp
+L peioris_boards_lib:R R38
+U 1 1 5C9D1112
+P 2200 3650
+F 0 "R38" H 2200 3700 25  0000 C CNN
+F 1 "470" H 2200 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2200 3650 50  0001 C CNN
+F 3 "" H 2200 3650 50  0001 C CNN
+	1    2200 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R39
+U 1 1 5C9DEA65
+P 2650 3650
+F 0 "R39" H 2650 3700 25  0000 C CNN
+F 1 "470" H 2650 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2650 3650 50  0001 C CNN
+F 3 "" H 2650 3650 50  0001 C CNN
+	1    2650 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R40
+U 1 1 5C9EC29F
+P 3100 3650
+F 0 "R40" H 3100 3700 25  0000 C CNN
+F 1 "470" H 3100 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3100 3650 50  0001 C CNN
+F 3 "" H 3100 3650 50  0001 C CNN
+	1    3100 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R41
+U 1 1 5C9F9AE4
+P 3550 3650
+F 0 "R41" H 3550 3700 25  0000 C CNN
+F 1 "470" H 3550 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3550 3650 50  0001 C CNN
+F 3 "" H 3550 3650 50  0001 C CNN
+	1    3550 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R42
+U 1 1 5CA0738B
+P 4000 3650
+F 0 "R42" H 4000 3700 25  0000 C CNN
+F 1 "470" H 4000 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4000 3650 50  0001 C CNN
+F 3 "" H 4000 3650 50  0001 C CNN
+	1    4000 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R43
+U 1 1 5CA2235E
+P 4675 3650
+F 0 "R43" H 4675 3700 25  0000 C CNN
+F 1 "470" H 4675 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4675 3650 50  0001 C CNN
+F 3 "" H 4675 3650 50  0001 C CNN
+	1    4675 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R44
+U 1 1 5CA2FC74
+P 5350 3650
+F 0 "R44" H 5350 3700 25  0000 C CNN
+F 1 "470" H 5350 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5350 3650 50  0001 C CNN
+F 3 "" H 5350 3650 50  0001 C CNN
+	1    5350 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R45
+U 1 1 5CA3D52D
+P 5800 3650
+F 0 "R45" H 5800 3700 25  0000 C CNN
+F 1 "470" H 5800 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5800 3650 50  0001 C CNN
+F 3 "" H 5800 3650 50  0001 C CNN
+	1    5800 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R46
+U 1 1 5CA4ADE8
+P 6250 3650
+F 0 "R46" H 6250 3700 25  0000 C CNN
+F 1 "470" H 6250 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6250 3650 50  0001 C CNN
+F 3 "" H 6250 3650 50  0001 C CNN
+	1    6250 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R47
+U 1 1 5CA586B3
+P 6700 3650
+F 0 "R47" H 6700 3700 25  0000 C CNN
+F 1 "470" H 6700 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6700 3650 50  0001 C CNN
+F 3 "" H 6700 3650 50  0001 C CNN
+	1    6700 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R48
+U 1 1 5CA65D6B
+P 7150 3650
+F 0 "R48" H 7150 3700 25  0000 C CNN
+F 1 "470" H 7150 3650 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7150 3650 50  0001 C CNN
+F 3 "" H 7150 3650 50  0001 C CNN
+	1    7150 3650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 3650 2750 3750
+Connection ~ 2750 3750
+Wire Wire Line
+	3200 3650 3200 3750
+Connection ~ 3200 3750
+Wire Wire Line
+	3650 3650 3650 3750
+Connection ~ 3650 3750
+Wire Wire Line
+	4100 3650 4100 3750
+Connection ~ 4100 3750
+Wire Wire Line
+	4775 3650 4775 3750
+Connection ~ 4775 3750
+Wire Wire Line
+	5450 3650 5450 3750
+Connection ~ 5450 3750
+Wire Wire Line
+	5900 3650 5900 3750
+Connection ~ 5900 3750
+Wire Wire Line
+	6350 3650 6350 3750
+Connection ~ 6350 3750
+Wire Wire Line
+	6800 3650 6800 3750
+Connection ~ 6800 3750
+$Comp
+L peioris_boards_lib:R R26
+U 1 1 5CB0AF4E
+P 2200 2925
+F 0 "R26" H 2200 2975 25  0000 C CNN
+F 1 "470" H 2200 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2200 2925 50  0001 C CNN
+F 3 "" H 2200 2925 50  0001 C CNN
+	1    2200 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R27
+U 1 1 5CB1B071
+P 2650 2925
+F 0 "R27" H 2650 2975 25  0000 C CNN
+F 1 "470" H 2650 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2650 2925 50  0001 C CNN
+F 3 "" H 2650 2925 50  0001 C CNN
+	1    2650 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R28
+U 1 1 5CB2B2DF
+P 3100 2925
+F 0 "R28" H 3100 2975 25  0000 C CNN
+F 1 "470" H 3100 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3100 2925 50  0001 C CNN
+F 3 "" H 3100 2925 50  0001 C CNN
+	1    3100 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R29
+U 1 1 5CB4B5A1
+P 3550 2925
+F 0 "R29" H 3550 2975 25  0000 C CNN
+F 1 "470" H 3550 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3550 2925 50  0001 C CNN
+F 3 "" H 3550 2925 50  0001 C CNN
+	1    3550 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R30
+U 1 1 5CB5B81D
+P 4000 2925
+F 0 "R30" H 4000 2975 25  0000 C CNN
+F 1 "470" H 4000 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4000 2925 50  0001 C CNN
+F 3 "" H 4000 2925 50  0001 C CNN
+	1    4000 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R31
+U 1 1 5CB6B956
+P 4450 2925
+F 0 "R31" H 4450 2975 25  0000 C CNN
+F 1 "470" H 4450 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4450 2925 50  0001 C CNN
+F 3 "" H 4450 2925 50  0001 C CNN
+	1    4450 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R32
+U 1 1 5CB7BB80
+P 4900 2925
+F 0 "R32" H 4900 2975 25  0000 C CNN
+F 1 "470" H 4900 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4900 2925 50  0001 C CNN
+F 3 "" H 4900 2925 50  0001 C CNN
+	1    4900 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R33
+U 1 1 5CB8BCAD
+P 5350 2925
+F 0 "R33" H 5350 2975 25  0000 C CNN
+F 1 "470" H 5350 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5350 2925 50  0001 C CNN
+F 3 "" H 5350 2925 50  0001 C CNN
+	1    5350 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R34
+U 1 1 5CB9BF31
+P 5800 2925
+F 0 "R34" H 5800 2975 25  0000 C CNN
+F 1 "470" H 5800 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5800 2925 50  0001 C CNN
+F 3 "" H 5800 2925 50  0001 C CNN
+	1    5800 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R35
+U 1 1 5CBAC066
+P 6250 2925
+F 0 "R35" H 6250 2975 25  0000 C CNN
+F 1 "470" H 6250 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6250 2925 50  0001 C CNN
+F 3 "" H 6250 2925 50  0001 C CNN
+	1    6250 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R36
+U 1 1 5CBBC36A
+P 6700 2925
+F 0 "R36" H 6700 2975 25  0000 C CNN
+F 1 "470" H 6700 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6700 2925 50  0001 C CNN
+F 3 "" H 6700 2925 50  0001 C CNN
+	1    6700 2925
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R37
+U 1 1 5CBCC5FC
+P 7150 2925
+F 0 "R37" H 7150 2975 25  0000 C CNN
+F 1 "470" H 7150 2925 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7150 2925 50  0001 C CNN
+F 3 "" H 7150 2925 50  0001 C CNN
+	1    7150 2925
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 2925 2750 3025
+Connection ~ 2750 3025
+Wire Wire Line
+	2750 3025 2300 3025
+Wire Wire Line
+	3200 2925 3200 3025
+Connection ~ 3200 3025
+Wire Wire Line
+	3650 2925 3650 3025
+Connection ~ 3650 3025
+Wire Wire Line
+	3650 3025 3200 3025
+Wire Wire Line
+	4100 2925 4100 3025
+Connection ~ 4100 3025
+Wire Wire Line
+	4100 3025 3650 3025
+Wire Wire Line
+	4550 2925 4550 3025
+Connection ~ 4550 3025
+Wire Wire Line
+	4550 3025 4100 3025
+Wire Wire Line
+	5000 2925 5000 3025
+Connection ~ 5000 3025
+Wire Wire Line
+	5000 3025 4550 3025
+Wire Wire Line
+	5450 2925 5450 3025
+Connection ~ 5450 3025
+Wire Wire Line
+	5450 3025 5000 3025
+Wire Wire Line
+	5900 2925 5900 3025
+Connection ~ 5900 3025
+Wire Wire Line
+	5900 3025 5450 3025
+Wire Wire Line
+	6350 2925 6350 3025
+Connection ~ 6350 3025
+Wire Wire Line
+	6350 3025 5900 3025
+Wire Wire Line
+	6800 2925 6800 3025
+Connection ~ 6800 3025
+Wire Wire Line
+	6800 3025 6350 3025
+Connection ~ 2300 3025
+$Comp
+L peioris_boards_lib:R R14
+U 1 1 5CCB7D6E
+P 2200 2275
+F 0 "R14" H 2200 2325 25  0000 C CNN
+F 1 "470" H 2200 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2200 2275 50  0001 C CNN
+F 3 "" H 2200 2275 50  0001 C CNN
+	1    2200 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R15
+U 1 1 5CCCB433
+P 2650 2275
+F 0 "R15" H 2650 2325 25  0000 C CNN
+F 1 "470" H 2650 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2650 2275 50  0001 C CNN
+F 3 "" H 2650 2275 50  0001 C CNN
+	1    2650 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R16
+U 1 1 5CCDEAF9
+P 3100 2275
+F 0 "R16" H 3100 2325 25  0000 C CNN
+F 1 "470" H 3100 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3100 2275 50  0001 C CNN
+F 3 "" H 3100 2275 50  0001 C CNN
+	1    3100 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R17
+U 1 1 5CCF23AA
+P 3550 2275
+F 0 "R17" H 3550 2325 25  0000 C CNN
+F 1 "470" H 3550 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3550 2275 50  0001 C CNN
+F 3 "" H 3550 2275 50  0001 C CNN
+	1    3550 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R18
+U 1 1 5CD05A76
+P 4000 2275
+F 0 "R18" H 4000 2325 25  0000 C CNN
+F 1 "470" H 4000 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4000 2275 50  0001 C CNN
+F 3 "" H 4000 2275 50  0001 C CNN
+	1    4000 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R19
+U 1 1 5CD19141
+P 4450 2275
+F 0 "R19" H 4450 2325 25  0000 C CNN
+F 1 "470" H 4450 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4450 2275 50  0001 C CNN
+F 3 "" H 4450 2275 50  0001 C CNN
+	1    4450 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R20
+U 1 1 5CD400CD
+P 4900 2275
+F 0 "R20" H 4900 2325 25  0000 C CNN
+F 1 "470" H 4900 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4900 2275 50  0001 C CNN
+F 3 "" H 4900 2275 50  0001 C CNN
+	1    4900 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R21
+U 1 1 5CD53792
+P 5350 2275
+F 0 "R21" H 5350 2325 25  0000 C CNN
+F 1 "470" H 5350 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5350 2275 50  0001 C CNN
+F 3 "" H 5350 2275 50  0001 C CNN
+	1    5350 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R22
+U 1 1 5CD67054
+P 5800 2275
+F 0 "R22" H 5800 2325 25  0000 C CNN
+F 1 "470" H 5800 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5800 2275 50  0001 C CNN
+F 3 "" H 5800 2275 50  0001 C CNN
+	1    5800 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R23
+U 1 1 5CD7A71F
+P 6250 2275
+F 0 "R23" H 6250 2325 25  0000 C CNN
+F 1 "470" H 6250 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6250 2275 50  0001 C CNN
+F 3 "" H 6250 2275 50  0001 C CNN
+	1    6250 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R24
+U 1 1 5CD8DDED
+P 6700 2275
+F 0 "R24" H 6700 2325 25  0000 C CNN
+F 1 "470" H 6700 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6700 2275 50  0001 C CNN
+F 3 "" H 6700 2275 50  0001 C CNN
+	1    6700 2275
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R25
+U 1 1 5CDA16BA
+P 7150 2275
+F 0 "R25" H 7150 2325 25  0000 C CNN
+F 1 "470" H 7150 2275 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7150 2275 50  0001 C CNN
+F 3 "" H 7150 2275 50  0001 C CNN
+	1    7150 2275
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7250 2275 7250 2375
+Wire Wire Line
+	2300 2375 2300 2275
+Wire Wire Line
+	2750 2275 2750 2375
+Connection ~ 2750 2375
+Wire Wire Line
+	2750 2375 2300 2375
+Wire Wire Line
+	3200 2275 3200 2375
+Connection ~ 3200 2375
+Wire Wire Line
+	3200 2375 2750 2375
+Wire Wire Line
+	3650 2275 3650 2375
+Connection ~ 3650 2375
+Wire Wire Line
+	3650 2375 4100 2375
+Wire Wire Line
+	4100 2275 4100 2375
+Connection ~ 4100 2375
+Wire Wire Line
+	4100 2375 4550 2375
+Wire Wire Line
+	4550 2275 4550 2375
+Connection ~ 4550 2375
+Wire Wire Line
+	4550 2375 5000 2375
+Wire Wire Line
+	5000 2275 5000 2375
+Connection ~ 5000 2375
+Wire Wire Line
+	5000 2375 5450 2375
+Wire Wire Line
+	5450 2275 5450 2375
+Connection ~ 5450 2375
+Wire Wire Line
+	5450 2375 5900 2375
+Wire Wire Line
+	5900 2275 5900 2375
+Connection ~ 5900 2375
+Wire Wire Line
+	5900 2375 6350 2375
+Wire Wire Line
+	6350 2275 6350 2375
+Connection ~ 6350 2375
+Wire Wire Line
+	6350 2375 6800 2375
+Wire Wire Line
+	6800 2275 6800 2375
+Connection ~ 6800 2375
+Wire Wire Line
+	6800 2375 7150 2375
+$Comp
+L peioris_boards_lib:R R13
+U 1 1 5CEB5060
+P 7150 1625
+F 0 "R13" H 7150 1675 25  0000 C CNN
+F 1 "470" H 7150 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7150 1625 50  0001 C CNN
+F 3 "" H 7150 1625 50  0001 C CNN
+	1    7150 1625
+	0    -1   -1   0   
+$EndComp
+$Comp
+L peioris_boards_lib:R R12
+U 1 1 5CECBEEF
+P 6700 1625
+F 0 "R12" H 6700 1675 25  0000 C CNN
+F 1 "470" H 6700 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6700 1625 50  0001 C CNN
+F 3 "" H 6700 1625 50  0001 C CNN
+	1    6700 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R11
+U 1 1 5CEE2D81
+P 6250 1625
+F 0 "R11" H 6250 1675 25  0000 C CNN
+F 1 "470" H 6250 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6250 1625 50  0001 C CNN
+F 3 "" H 6250 1625 50  0001 C CNN
+	1    6250 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R10
+U 1 1 5CEF9E2E
+P 5800 1625
+F 0 "R10" H 5800 1675 25  0000 C CNN
+F 1 "470" H 5800 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5800 1625 50  0001 C CNN
+F 3 "" H 5800 1625 50  0001 C CNN
+	1    5800 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R9
+U 1 1 5CF10CC0
+P 5350 1625
+F 0 "R9" H 5350 1675 25  0000 C CNN
+F 1 "470" H 5350 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5350 1625 50  0001 C CNN
+F 3 "" H 5350 1625 50  0001 C CNN
+	1    5350 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R8
+U 1 1 5CF27B53
+P 4900 1625
+F 0 "R8" H 4900 1675 25  0000 C CNN
+F 1 "470" H 4900 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4900 1625 50  0001 C CNN
+F 3 "" H 4900 1625 50  0001 C CNN
+	1    4900 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R7
+U 1 1 5CF3E9E9
+P 4450 1625
+F 0 "R7" H 4450 1675 25  0000 C CNN
+F 1 "470" H 4450 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4450 1625 50  0001 C CNN
+F 3 "" H 4450 1625 50  0001 C CNN
+	1    4450 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R6
+U 1 1 5CF55B2F
+P 4000 1625
+F 0 "R6" H 4000 1675 25  0000 C CNN
+F 1 "470" H 4000 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4000 1625 50  0001 C CNN
+F 3 "" H 4000 1625 50  0001 C CNN
+	1    4000 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R5
+U 1 1 5CF6C9C1
+P 3550 1625
+F 0 "R5" H 3550 1675 25  0000 C CNN
+F 1 "470" H 3550 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3550 1625 50  0001 C CNN
+F 3 "" H 3550 1625 50  0001 C CNN
+	1    3550 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R4
+U 1 1 5CF83858
+P 3100 1625
+F 0 "R4" H 3100 1675 25  0000 C CNN
+F 1 "470" H 3100 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3100 1625 50  0001 C CNN
+F 3 "" H 3100 1625 50  0001 C CNN
+	1    3100 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R3
+U 1 1 5CF9A6EE
+P 2650 1625
+F 0 "R3" H 2650 1675 25  0000 C CNN
+F 1 "470" H 2650 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2650 1625 50  0001 C CNN
+F 3 "" H 2650 1625 50  0001 C CNN
+	1    2650 1625
+	-1   0    0    1   
+$EndComp
+$Comp
+L peioris_boards_lib:R R2
+U 1 1 5CFB1850
+P 2200 1625
+F 0 "R2" H 2200 1675 25  0000 C CNN
+F 1 "470" H 2200 1625 16  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2200 1625 50  0001 C CNN
+F 3 "" H 2200 1625 50  0001 C CNN
+	1    2200 1625
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2300 1625 2300 1725
+Wire Wire Line
+	2300 1725 2750 1725
+Wire Wire Line
+	6800 1625 6800 1725
+Connection ~ 6800 1725
+Wire Wire Line
+	6350 1625 6350 1725
+Connection ~ 6350 1725
+Wire Wire Line
+	6350 1725 6800 1725
+Wire Wire Line
+	5900 1625 5900 1725
+Connection ~ 5900 1725
+Wire Wire Line
+	5900 1725 6350 1725
+Wire Wire Line
+	5450 1625 5450 1725
+Connection ~ 5450 1725
+Wire Wire Line
+	5450 1725 5900 1725
+Wire Wire Line
+	5000 1625 5000 1725
+Connection ~ 5000 1725
+Wire Wire Line
+	5000 1725 5450 1725
+Wire Wire Line
+	4550 1625 4550 1725
+Connection ~ 4550 1725
+Wire Wire Line
+	4550 1725 5000 1725
+Wire Wire Line
+	4100 1625 4100 1725
+Connection ~ 4100 1725
+Wire Wire Line
+	4100 1725 4550 1725
+Wire Wire Line
+	3650 1625 3650 1725
+Connection ~ 3650 1725
+Wire Wire Line
+	3650 1725 4100 1725
+Wire Wire Line
+	3200 1625 3200 1725
+Connection ~ 3200 1725
+Wire Wire Line
+	3200 1725 3650 1725
+Wire Wire Line
+	2750 1625 2750 1725
+Connection ~ 2750 1725
+Wire Wire Line
+	2750 1725 3200 1725
+Wire Wire Line
+	2300 1725 2300 2275
+Connection ~ 2300 1725
+Connection ~ 2300 2275
+Connection ~ 2300 2375
+Text GLabel 7400 1725 2    50   Input ~ 0
+LEDGND
+Wire Wire Line
+	2300 3025 2300 3650
+Connection ~ 2300 3650
+Wire Wire Line
+	2300 3650 2300 3750
+Wire Wire Line
+	2300 3750 2750 3750
+Wire Wire Line
+	2750 3750 3200 3750
+Wire Wire Line
+	3200 3750 3650 3750
+Wire Wire Line
+	3650 3750 4100 3750
+Wire Wire Line
+	4100 3750 4775 3750
+Wire Wire Line
+	4775 3750 5450 3750
+Wire Wire Line
+	5450 3750 5900 3750
+Wire Wire Line
+	5900 3750 6350 3750
+Wire Wire Line
+	6350 3750 6800 3750
+Wire Wire Line
+	6800 3750 7150 3750
+Wire Wire Line
+	6700 3550 7050 3550
+Wire Wire Line
+	7050 3550 7050 3650
+Connection ~ 6700 3550
+Connection ~ 2300 2925
+Wire Wire Line
+	2300 2375 2300 2925
+Wire Wire Line
+	2300 3025 2300 2925
+Wire Wire Line
+	2750 3025 3200 3025
+Wire Wire Line
+	7150 3025 6800 3025
+Wire Wire Line
+	6700 2825 7050 2825
+Wire Wire Line
+	7050 2825 7050 2925
+Connection ~ 6700 2825
+Wire Wire Line
+	3200 2375 3650 2375
+Connection ~ 7150 2375
+Wire Wire Line
+	7150 2375 7250 2375
+Wire Wire Line
+	6700 2175 7050 2175
+Wire Wire Line
+	7050 2175 7050 2275
+Connection ~ 6700 2175
+Wire Wire Line
+	6800 1725 7150 1725
+Connection ~ 7150 1725
+Wire Wire Line
+	7150 1725 7400 1725
+Wire Wire Line
+	7050 1625 7400 1625
+Wire Wire Line
+	7400 1625 7400 1525
+Wire Wire Line
+	7050 1625 7050 1525
+Wire Wire Line
+	7050 1525 6700 1525
+Connection ~ 7050 1625
+Connection ~ 6700 1525
+Wire Wire Line
+	3600 2125 3700 2125
+Connection ~ 3700 2125
+Wire Wire Line
+	3700 2125 3700 1475
+Wire Wire Line
+	3600 2775 3700 2775
+Connection ~ 3700 2775
+Wire Wire Line
+	3700 2775 3700 2125
+Wire Wire Line
+	4600 2775 4600 3250
+Connection ~ 4600 2775
+Wire Wire Line
+	4725 3500 4825 3500
+Wire Wire Line
+	4825 3500 4825 3250
+Wire Wire Line
+	4825 3250 4600 3250
+Text GLabel 2350 1250 1    50   Input ~ 0
+colA
+Text GLabel 3250 1250 1    50   Input ~ 0
+colC
+Text GLabel 2800 1250 1    50   Input ~ 0
+colB
+Text GLabel 3700 1250 1    50   Input ~ 0
+colD
+Text GLabel 4150 1250 1    50   Input ~ 0
+colE
+Text GLabel 4600 1250 1    50   Input ~ 0
+colF
+Text GLabel 5050 1250 1    50   Input ~ 0
+colG
+Text GLabel 5500 1250 1    50   Input ~ 0
+colH
+Text GLabel 5950 1250 1    50   Input ~ 0
+colI
+Text GLabel 6400 1250 1    50   Input ~ 0
+colJ
+Text GLabel 6850 1250 1    50   Input ~ 0
+colK
+Text GLabel 7300 1250 1    50   Input ~ 0
+colL
+Text GLabel 1950 1850 0    50   Input ~ 0
+row0
+Text GLabel 1950 2500 0    50   Input ~ 0
+row1
+Text GLabel 1950 3150 0    50   Input ~ 0
+row2
+Text GLabel 1950 3875 0    50   Input ~ 0
+row3
+$EndSCHEMATC

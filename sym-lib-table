@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name MCU_ST_STM32F0)(type Legacy)(uri ${KIPRJMOD}/keeb-files/MCU_ST_STM32F0.lib)(options "")(descr ""))
+  (lib (name peioris_boards_lib)(type Legacy)(uri ${KIPRJMOD}/keeb-files/peioris_boards_lib.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrids)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
+  (lib (name Voyager65-rescue)(type Legacy)(uri "E:/Desktop/Peioris Boards/repositories/Voyager65/Voyager65-rescue.lib")(options "")(descr ""))
+  (lib (name Transistor_BJT)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Transistor_BJT.lib)(options "")(descr ""))
+)
